@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\User\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\User\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\User\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.StockManagementHome.resources
+C:\Users\User\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\User\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\User\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.CategorySetupForm.resources
+C:\Users\User\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.SearchItemSummaryForm.resources
+D:\University\Asp.Net Basis\1st Project\Project Work\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+D:\University\Asp.Net Basis\1st Project\Project Work\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.CategorySetupForm.resources
+D:\University\Asp.Net Basis\1st Project\Project Work\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.SearchItemSummaryForm.resources
+D:\University\Asp.Net Basis\1st Project\Project Work\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.StockManagementHome.resources
+D:\University\Asp.Net Basis\1st Project\Project Work\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\University\Asp.Net Basis\1st Project\Project Work\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\University\Asp.Net Basis\1st Project\Project Work\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\University\Asp.Net Basis\1st Project\Project Work\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\University\Asp.Net Basis\1st Project\Project Work\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
