@@ -1,0 +1,40 @@
+CREATE DATABASE StockManagementDB
+
+USE StockManagementDB
+--DROP DATABASE StockManagementDB
+
+CREATE TABLE CategorySetup(
+Sl int IDENTITY (1,1) PRIMARY KEY,
+Name VARCHAR(50)
+)
+
+
+CREATE TABLE CompanySetup(
+Sl int IDENTITY (1,1) PRIMARY KEY,
+Name VARCHAR(50)
+)
+
+CREATE TABLE ItemSetup(
+Sl int IDENTITY (1,1) PRIMARY KEY,
+CategoryName VARCHAR(50),CompanyName VARCHAR(50),
+Item VARCHAR(50),Reorder VARCHAR(50),Date DATE DEFAULT GETDATE()
+)
+
+
+CREATE TABLE StockIn(
+Sl int IDENTITY (1,1) PRIMARY KEY,
+CategoryName VARCHAR(50),CompanyName VARCHAR(50),
+Item VARCHAR(50),Reorder VARCHAR(50),AvailableQuantity int,
+StockInQuantity int,Date DATE DEFAULT GETDATE()
+)
+
+CREATE TABLE StockOut(
+Sl int IDENTITY (1,1) PRIMARY KEY,
+CategoryName VARCHAR(50),CompanyName VARCHAR(50),
+Item VARCHAR(50),Reorder VARCHAR(50),AvailableQuantity int,
+StockOutQuantity int,Date DATE DEFAULT GETDATE()
+)
+
+
+SELECT* FROM StockOut
+Md.Ibrahim Hasan
